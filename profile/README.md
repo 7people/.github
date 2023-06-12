@@ -8,9 +8,9 @@
 - Bahri Şahin Demirtaş
 - Berkay Mustafaoğlu [@wilwaerin](https://github.com/wilwaerin "@wilwaerin")
 - Mehmet Aytaç [@MehmetAytac](https://github.com/MehmetAytac "@MehmetAytac")
-- Mehmet Sedat Yıldız
+- Mehmet Sedat Yıldız [@Muunsparks](https://github.com/Muunsparks "@Muunsparks")
 - Rabia Çevik [@rabiacevikk](https://github.com/rabiacevikk "@rabiacevikk")
-- Uğur Barış Özyürek [@Barisozyurek](https://github.com/barisozyurek "@Barisozyurek")
+- Uğur Barış Özyürek [@Barisozyurek](https://github.com/Barisozyurek "@Barisozyurek")
 
 ## Projects
 
